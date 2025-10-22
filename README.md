@@ -16,9 +16,8 @@ The prototype includes simple layout screens and minor animations to visualize t
 
 ---
 
-## 🔗 Figma Prototype (Optional)
+## 🔗 Figma Prototype
 
-If you want to share the interactive prototype later, you can include a **view-only Figma link**:  
 [View Figma Prototype](https://www.figma.com/design/oKogVDUfZizGWQXa2oRniu/softdrinks?node-id=0-1&t=BMWrGm08xUO7HBsD-1)  
 
 > Currently, only static images are submitted to showcase the design concept.
